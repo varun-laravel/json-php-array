@@ -7,4 +7,4 @@ All processing is done locally within your browser.
 
 No data is sent to any external servers.
 
-If you have questions about this policy, you can contact the developer at: your-email@example.com
+If you have questions about this policy, you can contact the developer at: varun.laravel@gmail.com
